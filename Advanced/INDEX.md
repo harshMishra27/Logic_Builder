@@ -1,5 +1,7 @@
 ### 1. Make a game: Flappy birds.
 
+<sup>[Language:JavaScript Author:CodeGess</sup>
+
 ### 2. Longest Increasing Subsequence.
 
 <sup>[Language:CPP Author:Rohan-G]</sup>
